@@ -1,6 +1,6 @@
 # Hi there, I'm Robert 👋
 
-Welcome to my GitHub profile! I'm a Junior Software Developer specializing in frontend technologies. I love to build beautiful and functional web experiences that make a difference.
+Welcome to my GitHub profile! I'm a Junior Software Developer specializing in frontend technologies. I enjoy crafting websites that are both beautiful and practical, always aiming to make a positive impact.
 
 ## About Me
 - 🌱 I'm currently honing my skills in **HTML, CSS, SASS, JavaScript, ReactJS, and Node.js**.
