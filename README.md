@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm a Junior Software Developer specializing in fr
 - 💡 I enjoy solving problems with clean and efficient code.
 - 🎯 I'm focused on building responsive and accessible web applications.
 
-## Clean, Organized Code
+## My Code Philosophy
+- 🧹 Clean, Organized Code
 I believe that the beauty of a website isn't just in its design but also in its underlying code. Cluttered code in one file is a scenario I avoid at all costs. My approach is to organize and beautify my code as much as possible. I strive to make my projects not just functional, but also accessible to other developers. This means adhering to best practices, commenting extensively, and structuring projects so that they are easy to navigate and understand. By doing so, I aim to create a codebase that is not only a joy for users to interact with but also for developers to contribute to and learn from.
 
 ## My Skill Set
